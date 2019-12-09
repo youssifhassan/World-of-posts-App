@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "630067852208",
+    "firebase_url": "https://jobase-f2351.firebaseio.com",
+    "project_id": "jobase-f2351",
+    "storage_bucket": "jobase-f2351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630067852208:android:7a51434dd91294a1",
+        "android_client_info": {
+          "package_name": "com.example.dell.worldofposts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630067852208-htqo8qh7bn2j4c2nms67e0jgblbcet7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.worldofposts",
+            "certificate_hash": "b506b6f33de9cd6742e9bb2fc7c4bf1bb9c724cd"
+          }
+        },
+        {
+          "client_id": "630067852208-16l4lo8gevcosvuh1kl66vbnop117pi7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "630067852208-16l4lo8gevcosvuh1kl66vbnop117pi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfDS2D4eGW_G-vJGIfiU0nyR4Hhrt7yU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630067852208-16l4lo8gevcosvuh1kl66vbnop117pi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
